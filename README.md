@@ -11,7 +11,6 @@ This project recreates Facebook's News Feed page using React and Next.js.
 - Responsive layout for desktop, tablet and mobile
 
 ## Component Architecture
-```
 app/
 ├── page.js                  # Main page - assembles all components
 ├── components/
@@ -26,7 +25,7 @@ app/
 │   │   └── Feed.js          # Center feed container
 │   └── post/
 │       └── Post.js          # Reusable post card component
-```
+
 
 ## Tech Stack
 - Next.js 16
@@ -34,8 +33,8 @@ app/
 - React 19
 
 ## How to Run
-```bash
+bash
 npm install
 npm run dev
-```
+
 Open [http://localhost:3000](http://localhost:3000)
