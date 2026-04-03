@@ -2,11 +2,11 @@
 export default function Stories() {
   // Sample stories data
   const stories = [
-    { name: "Alice", color: "bg-pink-400" },
+    { name: "sanskar", color: "bg-pink-400" },
     { name: "Bob", color: "bg-blue-400" },
-    { name: "Charlie", color: "bg-green-400" },
-    { name: "Diana", color: "bg-yellow-400" },
-    { name: "Edward", color: "bg-purple-400" },
+    { name: "Dorji", color: "bg-green-400" },
+    { name: "pema", color: "bg-yellow-400" },
+    { name: "Tenzin", color: "bg-purple-400" },
   ];
 
   return (

@@ -1,9 +1,3 @@
-# Facebook News Feed Clone - WEB101 PA1
-
-**Student ID:** 02250368  
-**Module:** WEB101  
-**Assignment:** Practical Assignment 1
-
 ## Overview
 This project recreates Facebook's News Feed page using React and Next.js.
 

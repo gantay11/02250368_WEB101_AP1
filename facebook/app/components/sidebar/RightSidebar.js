@@ -2,12 +2,12 @@
 export default function RightSidebar() {
   // Sample contacts data
   const contacts = [
-    { name: "Alice Johnson", online: true },
-    { name: "Bob Smith", online: true },
-    { name: "Charlie Brown", online: false },
-    { name: "Diana Prince", online: true },
-    { name: "Edward Norton", online: false },
-    { name: "Fiona Green", online: true },
+    { name: "sanskar", online: true },
+    { name: "Bob", online: true },
+    { name: "Dorji", online: false },
+    { name: "Prince", online: true },
+    { name: "pema", online: false },
+    { name: "Tenzin", online: true },
   ];
 
   return (

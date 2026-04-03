@@ -3,9 +3,9 @@ import Stories from "../stories/Stories";
 import Post from "../post/Post";
 
 const posts = [
-  { id: 1, name: "Alice Johnson", time: "2 hrs ago", content: "Beautiful day today! 🌸 Enjoying the sunshine with friends.", likes: 24, comments: 5 },
-  { id: 2, name: "Bob Smith", time: "4 hrs ago", content: "Just finished reading an amazing book. Highly recommend it to everyone!", likes: 18, comments: 3 },
-  { id: 3, name: "Charlie Brown", time: "6 hrs ago", content: "Cooked dinner for the family tonight. Everyone loved it! 🍝", likes: 42, comments: 8 },
+  { id: 1, name: "sanskar", time: "2 hrs ago", content: "Beautiful day today! 🌸 Enjoying the sunshine with friends.", likes: 24, comments: 5 },
+  { id: 2, name: "Bob ", time: "4 hrs ago", content: "Just finished reading an amazing book. Highly recommend it to everyone!", likes: 18, comments: 3 },
+  { id: 3, name: "dorji", time: "6 hrs ago", content: "Cooked dinner for the family tonight. Everyone loved it! 🍝", likes: 42, comments: 8 },
 ];
 
 export default function Feed() {
