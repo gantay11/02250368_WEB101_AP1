@@ -19,7 +19,7 @@ export default function LeftSidebar() {
         <div className="w-9 h-9 rounded-full bg-gray-300 flex items-center justify-center font-bold text-gray-600">
           U
         </div>
-        <span className="font-medium text-sm">Your Name</span>
+        <span className="font-medium text-sm">Sanskar gurung</span>
       </div>
 
       {/* Menu items */}
