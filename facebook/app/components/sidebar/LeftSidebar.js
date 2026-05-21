@@ -17,7 +17,7 @@ export default function LeftSidebar() {
       {/* Profile link */}
       <div className="flex items-center gap-3 p-2 rounded-lg hover:bg-gray-100 cursor-pointer mb-1">
         <div className="w-9 h-9 rounded-full bg-gray-300 flex items-center justify-center font-bold text-gray-600">
-          U
+          s
         </div>
         <span className="font-medium text-sm">Sanskar gurung</span>
       </div>
